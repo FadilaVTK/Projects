@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Apple MacBook Air",
+    "category": "Electronics",
+    "quantity": 12,
+    "price": 95000
+  },
+  {
+    "id": 2,
+    "name": "Dell Wireless Keyboard",
+    "category": "Accessories",
+    "quantity": 30,
+    "price": 1800
+  },
+  {
+    "id": 3,
+    "name": "Sony Headphones",
+    "category": "Electronics",
+    "quantity": 5,
+    "price": 15000
+  }
+]
