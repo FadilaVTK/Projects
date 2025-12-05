@@ -54,7 +54,7 @@ export default function InventoryApp() {
 
   const handleLogout = () => {
     localStorage.removeItem("loggedIn");
-    window.location.reload();
+    window.location.href = "/";
   };
 
   return (
