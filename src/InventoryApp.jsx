@@ -60,7 +60,7 @@ export default function InventoryApp() {
   return (
     <div className="max-w-4xl mx-auto p-6">
       <div className="flex justify-between items-center mb-4">
-        <h1 className="text-3xl text-purple-700 font-bold">InventoryPro</h1>
+        <h1 className="text-3xl text-purple-900 font-bold">InventoryPro</h1>
         <button
           onClick={handleLogout}
           className="bg-red-500 text-white px-3 py-1 rounded hover:bg-red-600"
